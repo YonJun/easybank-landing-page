@@ -1,5 +1,7 @@
 # Easybank landing page
 
+![preview image](https://github.com/YonJun/easybank-landing-page/blob/main/static/desktop-preview.jpg?raw=true)
+
 Project created with [Sapper](https://github.com/sveltejs/sapper).
 
 ## Getting started
