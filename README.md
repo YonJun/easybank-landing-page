@@ -4,6 +4,8 @@
 
 Project created with [Sapper](https://github.com/sveltejs/sapper).
 
+See https://easybank-landing-page-sage.vercel.app/
+
 ## Getting started
 
 ### Running the project
